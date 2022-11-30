@@ -1,3 +1,3 @@
-\\# About Project
+\# About Project
 
-This repo contains files that contain basic shell scripts.
+This directory contains files that contain basic shell scripts.
